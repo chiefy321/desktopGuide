@@ -1,3 +1,6 @@
 
 https://guides.github.com/introduction/getting-your-project-on-github/
-Not very goog seems to be for an older version
+Not very good seems to be for an older version
+
+Why is git better than SVN
+http://stackoverflow.com/questions/871/why-is-git-better-than-subversion
