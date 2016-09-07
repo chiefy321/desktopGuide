@@ -1,0 +1,2 @@
+This fileadded from my laptop
+http://stackoverflow.com/questions/2428722/git-branch-strategy-for-small-dev-team
